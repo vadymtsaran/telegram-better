@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="https://github.com/levochkaa/BetterTG/blob/main/BetterTG/Assets.xcassets/AppIcon_README.imageset/bettertg256.png?raw=true" alt="AppIcon">
+    <img src="https://github.com/vadymtsaran/telegram-better/blob/main/BetterTG/Assets.xcassets/AppIcon_README.imageset/bettertg256.png?raw=true" alt="AppIcon">
 </div>
-<h1 align="center">BetterTG</h1>
+<h1 align="center">telegram-better</h1>
 <p align="center">A Telegram client for iOS</p>
 
 ![](https://img.shields.io/badge/platform-iOS-000000?style=flat&logo=apple&logoColor=white)
@@ -27,7 +27,7 @@
 
 # Installation
 
-Download an .ipa file from [releases tab](https://github.com/levochkaa/BetterTG/releases/latest) and install through [Sideloadly](https://altstore.io)
+Download an .ipa file from [releases tab](https://github.com/vadymtsaran/telegram-better/releases/latest) and install through [Sideloadly](https://altstore.io)
 or [AltStore (suggested)](https://altstore.io).
 
 **Soon, I will buy Paid Apple Developer account, I promise.**
@@ -62,7 +62,7 @@ or [AltStore (suggested)](https://altstore.io).
 ## Step 1 - Clone the repo
 
 ```shell
-git clone https://github.com/levochkaa/BetterTG.git
+git clone https://github.com/vadymtsaran/telegram-better.git
 ```
 
 ## Step 2 - Download XCode
